@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867128453017",
+    "project_id": "carsbee-app",
+    "storage_bucket": "carsbee-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867128453017:android:d351ecb0b74d0bc0ce5508",
+        "android_client_info": {
+          "package_name": "com.example.carbeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867128453017-6e8koishvtiuvgma8sqat0n9vj3gc2ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXyprMaotHUSsvjtPh5wwslESYawSkIzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867128453017-6e8koishvtiuvgma8sqat0n9vj3gc2ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
